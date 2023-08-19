@@ -1,0 +1,82 @@
+[   {
+    "field":"SL_No",
+    "headerName":"Sl No",
+    "width":180
+},
+    {
+    "field": "CUSTOMER_NUMBER",
+    "headerName": "Customer Number",
+    "width": 260
+  },
+    {
+      "field": "CUSTOMER_ORDER_ID",
+      "headerName": "Customer Order ID",
+      "width":260
+    },
+    {
+      "field": "SALES_ORG",
+      "headerName": "Sales Org",
+      "width": 200
+    },
+    {
+      "field": "DISTRIBUTION_CHANNEL",
+      "headerName": "Distribution Channel",
+      "width": 200
+    },
+    {
+      "field": "DIVISION",
+      "headerName": "Division",
+      "width": 200
+    },
+    {
+      "field": "RELEASED_CREDIT_VALUE",
+      "headerName": "Released Credit Value",
+      "width": 230
+    },
+    {
+      "field": "PURCHASE_ORDER_TYPE",
+      "headerName": "Purchase Order Type",
+      "width": 230
+    },
+    {
+      "field": "COMPANY_CODE",
+      "headerName": "Company Code",
+      "width": 230
+    },
+    {
+      "field": "ORDER_CREATION_DATE",
+      "headerName": "Order Creation Date",
+      "width": 230
+    },
+    {
+      "field": "ORDER_AMOUNT",
+      "headerName": "Order Amount",
+      "width": 230
+    },
+    {
+      "field": "REQUESTED_DELIVERY_DAT",
+      "headerName": "Requested Delivery Date",
+      "width": 230
+    },
+    {
+      "field": "ORDER_CURRENCY",
+      "headerName": "Order Currency",
+      "width": 230
+    },
+    {
+      "field": "CREDIT_STATUS",
+      "headerName": "Credit Status",
+      "width": 230
+    },
+    
+    {
+      "field": "AMOUNT_IN_USD",
+      "headerName": "Amount in USD",
+      "width": 230
+    },
+    {
+      "field": "UNIQUE_CUST_ID",
+      "headerName": "Unique Cust ID",
+      "width": 230
+    }
+  ]
